@@ -1,7 +1,7 @@
 # CampfireHunt
 
 <p align="center">
-  <img src="images/tent3.png" width="120" alt="CampfireHunt icon"/>
+  <img src="images/tent3.png" width="250" alt="CampfireHunt icon"/>
 </p>
 
 A 2D top-down action game built in C using [Raylib](https://www.raylib.com/), where players defend a campfire against waves of monsters across 3 stages.
