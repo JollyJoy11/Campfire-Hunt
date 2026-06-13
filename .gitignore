@@ -1,0 +1,13 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.user
+
+# OS junk
+Thumbs.db
+.DS_Store
