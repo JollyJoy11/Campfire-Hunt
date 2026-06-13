@@ -1,5 +1,7 @@
 # CampfireHunt
 
+![CampfireHunt](images/tent3.png)
+
 A 2D top-down action game built in C using [Raylib](https://www.raylib.com/), where players defend a campfire against waves of monsters across 3 stages.
 
 ## Features
