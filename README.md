@@ -13,7 +13,7 @@ A 2D top-down action game built in C using [Raylib](https://www.raylib.com/), wh
 
 ## Screenshots
 
-> _Add screenshots or a GIF of gameplay here_
+<img width="942" height="651" alt="image" src="https://github.com/user-attachments/assets/c2b53add-487d-451d-a72a-02453ac65877" />
 
 ## Controls
 
